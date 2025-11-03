@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MythicalCosmic/boundless/main/docs/logo.svg" alt="Boundless logo" width="320"/>
+<img src="https://raw.githubusercontent.com/MythicalCosmic/boundless/main/docs/logo.png" alt="Boundless logo" width="320"/>
 
 # 🌀 Boundless  
 **The next generation Telegram framework — built to break limits**
